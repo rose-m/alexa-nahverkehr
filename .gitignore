@@ -1,0 +1,6 @@
+deployment.zip
+npm-debug.log
+
+.idea/
+node_modules/
+
