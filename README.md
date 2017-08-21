@@ -16,6 +16,10 @@ specific lines or generally for the next departures.
     * `mvg/`: contains the adapter to get departure information
     * `test/`: contains some scripts to test functionality (no unit tests)
     * `util/`: contains helpers used throughout the skill
+
+
+To build a deployment you can run `npm run build` which will produce a `deployment.zip` in the root directory. This file can then be uploaded
+to AWS Lambda.
     
 
 ## Sources of Information
