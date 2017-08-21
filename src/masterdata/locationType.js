@@ -1,3 +1,12 @@
+/**
+ * The available locations are taken from:
+ * - https://de.wikipedia.org/wiki/Liste_der_Stationen_der_S-Bahn_M%C3%BCnchen
+ * - https://de.wikipedia.org/wiki/Liste_der_M%C3%BCnchner_U-Bahnh%C3%B6fe
+ */
+
+/**
+ * The real names of the locations as well as known "aliases"
+ */
 const LOCATION_MAP = {
     'Aidenbachstraße': ['AIDENBACHSTRASSE'],
     'Alte Heide': ['ALTE HEIDE'],

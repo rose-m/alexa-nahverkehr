@@ -27,6 +27,10 @@ to AWS Lambda.
 The departure information is gathered from the official [MVG Live website](http://www.mvg-live.de/MvgLive/MvgLive.jsp) and inspiration for constructing
 requests was taken from [rmoritz/mvg-live](https://github.com/rmoriz/mvg-live).
 
+The available locations stored in [`src/masterdata/locationType.js`](./src/masterdata/locationType.js) are taken from Wikipedia:
+* https://de.wikipedia.org/wiki/Liste_der_Stationen_der_S-Bahn_M%C3%BCnchen
+* https://de.wikipedia.org/wiki/Liste_der_M%C3%BCnchner_U-Bahnh%C3%B6fe 
+
 
 ## License
 
